@@ -29,12 +29,6 @@
   <h4>Devido ao pouco conhecimento no Framework, infelizmente ficaram alguns pontos em aberto,<br>
   os quais relato abaixo:</h4>
   <ul>
-  <li>
-    <h4>Não consegui fazer o cadastro da foto do Usuario junto ao seu nome e data de nascimento.</h4>
-  </li>
-  <li>
-    <h4>Fiz o cadastro do Cliente em um Endpoint, e, o upload da imagem do mesmo em outro.</h4>
-  </li>
    <li>
     <h4>MySql - Um dos meus pontos fortes, infelizmente não consegui fazer com Postgress, mas obtive sucesso ao fazer com Mysql,
     </h4>
@@ -43,14 +37,15 @@
     <h4> Exception! algumas sobre questão do tamanho máximo das imagens, não tive tempo de implementar.
     </h4>
   </li>
+      </li>
+    <li>
+    <h4> DTO! criação dos Dto e ModelMapper não foi possivel implementar.
+    </h4>
+  </li>
     <li>
     <h4>Um dos maiores problemas que tive no ínicio foi fazer fazer o Upload da imagem<br>
     junto aos dados do usuario, pois sempre fiz isto com JDBC e até entao<br>
     esta foi a forma que eu consegui fazer o Upload.
-    </h4>
-  </li>
-     <li>
-    <h4>DDD - Há os Dto faltando. Amo usar Dto, infelizmente desta vez nao implementei assim como RepresentationModel.
     </h4>
   </li>
   <h3>Conclusão</h3>
