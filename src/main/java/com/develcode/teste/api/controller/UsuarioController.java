@@ -25,7 +25,7 @@ public class UsuarioController {
      
     @PostMapping("/cadastrar")
     @ResponseStatus(HttpStatus.CREATED)
-    public String handleFormSubmit(Usuario candidate,
+    public String salvarUsuario(Usuario candidate,
             @RequestParam("profilePictureFile") MultipartFile multipartFile1
             ) throws IOException {
          
