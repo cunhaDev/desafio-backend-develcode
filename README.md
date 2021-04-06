@@ -59,3 +59,20 @@
   <h1> EXEMPLO DE COMO O PROJETO DEVE FICAR: </h1>
   
    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/projeto.PNG">
+   <h4>Aqui podemos Vizualizar como a arquitetura do Projeto<br>
+deve ficar, seguindo os padrões DDD.</h4>
+
+   <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/telaIDE.PNG">
+   <h4>Aqui podemos Vizualizar o projeto Startado na IDE.</h4>
+   
+    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/tblBanco.PNG">
+   <h4>Aqui podemos Vizualizar como nossa tabela do banco de dados deve ficar.</h4>
+   
+    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/banco%20de%20dados.PNG">
+   <h4>Banco de dados Local.</h4>
+   
+   <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/url.PNG">
+   <h4>URL usada para acessar o Endpoint da aplicação.</h4>
+   
+     <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/postman.PNG">
+   <h4>Como deve ficar no Postman.</h4>
