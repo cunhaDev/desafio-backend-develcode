@@ -49,12 +49,6 @@
     </h4>
   </li>
 </ul>
-  
-   <h3>Conclusão</h3>
-  <h4>Este pequeno projeto despertou em mim ainda mais a paixão pelo Spring e perceber o poder que esse <br>
-  Framework oferece. Meus agradecimentos à DevelCode pela oportunidade!</h4>
-
-<h2> [Meu Linkedin](https://www.linkedin.com/in/cunhadev/) </h2>
 
   <h1> EXEMPLO DE COMO O PROJETO DEVE FICAR: </h1>
   
@@ -74,5 +68,12 @@ deve ficar, seguindo os padrões DDD.</h4>
    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/url.PNG">
    <h4>URL usada para acessar o Endpoint da aplicação.</h4>
    
-     <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/postman.PNG">
+   <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/postman.PNG">
    <h4>Como deve ficar no Postman.</h4>
+   
+     
+   <h3>Conclusão</h3>
+  <h4>Este pequeno projeto despertou em mim ainda mais a paixão pelo Spring e perceber o poder que esse <br>
+  Framework oferece. Meus agradecimentos à DevelCode pela oportunidade!</h4>
+
+<h2> [Meu Linkedin](https://www.linkedin.com/in/cunhadev/) </h2>
