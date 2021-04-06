@@ -59,10 +59,10 @@ deve ficar, seguindo os padrões DDD.</h4>
    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/telaIDE.PNG">
    <h4>Aqui podemos Vizualizar o projeto Startado na IDE.</h4>
    
-    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/tblBanco.PNG">
+   <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/tblBanco.PNG">
    <h4>Aqui podemos Vizualizar como nossa tabela do banco de dados deve ficar.</h4>
    
-    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/banco%20de%20dados.PNG">
+   <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/banco%20de%20dados.PNG">
    <h4>Banco de dados Local.</h4>
    
    <img src="https://github.com/cunhaDev/teste_develCode/blob/main/src/main/resources/example/url.PNG">
