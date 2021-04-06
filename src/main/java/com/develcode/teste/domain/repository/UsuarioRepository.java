@@ -7,5 +7,7 @@ import com.develcode.teste.domain.model.Usuario;
 
 @Repository
 public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
+	
+	Usuario findByFirstName(String firstName);
 
 }

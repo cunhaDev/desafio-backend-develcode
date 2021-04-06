@@ -1,6 +1,9 @@
 package com.develcode.teste.domain.model;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
+
 
 @Entity
 @Table(name = "usuarios")
@@ -10,8 +13,12 @@ public class Usuario {
 	private Long codigo;
 
 	@Column(name = "first_name")
+	@NotBlank
+	@NotNull
 	private String firstName;
 
+	@NotBlank
+	@NotNull
 	@Column(name = "date_nasc")
 	private String dataNascimento;
 
