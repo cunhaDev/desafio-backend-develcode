@@ -58,4 +58,4 @@
 
   <h1> EXEMPLO DE COMO O PROJETO DEVE FICAR: </h1>
   
-   <img src="https://github.com/cunhaDev/teste_develCode/tree/main/src/main/resources/example/projeto">
+   <img src="https://github.com/cunhaDev/teste_develCode/tree/main/src/main/resources/example/projeto.png">
