@@ -29,6 +29,11 @@
   <h4>Devido ao pouco conhecimento no Framework, infelizmente ficaram alguns pontos em aberto,<br>
   os quais relato abaixo:</h4>
   <ul>
+     <li>
+    <h4>Validação dos Campos - Um dos meus pontos fortes, infelizmente não consegui fazer a tempo foi a Validação dos Campos<br>
+      mas se deixar de preencher um campo ele retorna 400 Bad Request, caso esteja tudo certo ele executa e salva.
+    </h4>
+  </li>
    <li>
     <h4>MySql - Um dos meus pontos fortes, infelizmente não consegui fazer com Postgress, mas obtive sucesso ao fazer com Mysql,
     </h4>
