@@ -50,6 +50,10 @@
   </li>
 </ul>
   
+  <h1> EXEMPLO DE COMO O PROJETO DEVE FICAR: </h1>
+  
+  <img src=”caminho até a imagem”>
+  
    <h3>Conclusão</h3>
   <h4>Este pequeno projeto despertou em mim ainda mais a paixão pelo Spring e perceber o poder que esse <br>
   Framework oferece. Meus agradecimentos à DevelCode pela oportunidade!</h4>
