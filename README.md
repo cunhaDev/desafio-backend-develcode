@@ -48,9 +48,10 @@
     esta foi a forma que eu consegui fazer o Upload.
     </h4>
   </li>
-  <h3>Conclusão</h3>
+</ul>
+  
+   <h3>Conclusão</h3>
   <h4>Este pequeno projeto despertou em mim ainda mais a paixão pelo Spring e perceber o poder que esse <br>
   Framework oferece. Meus agradecimentos à DevelCode pela oportunidade!</h4>
-</ul>
 
 <h2> [Meu Linkedin](https://www.linkedin.com/in/cunhadev/) </h2>
